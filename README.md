@@ -2,4 +2,4 @@
 
 ## I'm LFC Supporter
 
-### This Repo is for DevOps Course
+### This Repo is for DevOps Courses
